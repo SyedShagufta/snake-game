@@ -14,6 +14,14 @@ python main.py
 
 4. The game window will open automatically, and you'll find yourself in control of a snake.
 
+## Gameplay Demonstration 🎭
+
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://github.com/SyedShagufta/snake-game/assets/62433926/047eabeb-014a-4a16-903d-4b28ad346851)
+
+
+
+
 ## Controls 🎮
 
 Use the arrow keys to control the snake's movements:
